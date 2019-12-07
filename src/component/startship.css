@@ -1,0 +1,20 @@
+.Starship-div {
+  width: 200px;
+  height: 75px;
+  display: flex;
+  align-items: center;
+  padding: 30px;
+  margin: 10px;
+  background-color: #2F4F4F;
+  color: white;
+  justify-content: center;
+  border-radius: 5px;
+}
+
+.Starship-container {
+  display: flex;
+  flex-flow: row wrap;
+  padding: 5vh;
+  justify-content: center;
+  align-items: center;
+}
