@@ -21,3 +21,35 @@
 .StarshipPage a {
   color: white;
 }
+
+.StarshipPage-div {
+  width: 400px;
+  display: flex;
+  align-items: left;
+  padding: 20px;
+  justify-content: space-evenly;
+  flex-direction: column;
+  background-color: #2F4F4F;
+  color: white;
+  border-radius: 5px;
+  text-align: left;
+  overflow: auto;
+  margin: 15px;
+}
+
+.StarshipPage-container {
+  display: flex;
+  flex-flow: row wrap;
+  padding: 10vh;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  margin-top: 15px;
+  color: white;
+}
+
+h3 {
+  text-align: center;
+}
